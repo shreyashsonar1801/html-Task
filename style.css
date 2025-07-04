@@ -38,7 +38,8 @@ body {
 /* === HERO SECTION UPDATED === */
 .hero {
   position: relative;
-  background-image: url('burger.jpg');
+ /* / background-image: url('images/burgers/burger.jpg'); */
+  background-image: url(images/burgers/burger.jpg);
   background-size: cover;
   background-position: center;
   height: 90vh;
